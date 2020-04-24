@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Imagen = ({imagen}) => {
 
     // Extraer los valores
